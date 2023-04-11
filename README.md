@@ -9,6 +9,6 @@ This is a repository for a simple OTP (One-Time Password) verification system.
 
 ## Installation
 1. Clone the repository to your local machine using the following command:
-``
+```
 git clone https://github.com/musfique113/OTPVerification.git
-``
+```
